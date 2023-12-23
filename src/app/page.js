@@ -5,7 +5,7 @@ export default function Home() {
     <main className={styles.main}>
       < User name="Sohail"/>
       < User name="khan"/>
-      < User name="solangi"/>
+      
       <h1>Home Page</h1>
     </main>
   )
